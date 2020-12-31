@@ -1,0 +1,16 @@
+{
+  "name": "desafio-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Clayton Campos <clayton.almeida.campos@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
